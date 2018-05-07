@@ -9,4 +9,9 @@ public class TS_RecordCreation
 		return x+y;
 	}
 	
+	public int subInt(int x, int y) 
+	{
+		return x-y;
+	}
+	
 }
